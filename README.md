@@ -1,7 +1,7 @@
 ## Hi there 👋
 
 # 💫 About Me:
-🔭 I'm currently working on Spring Boot Backend and Microservices<br>🏋️ Im looking to collaborate on Backend Stuff<br>📗 I'm currently learning Spring Security<br>🙋 Ask me about Backend Dev<br># Fun fact - I am ironman!!
+🔭 I'm currently working on Spring Boot Backend and Microservices<br>🏋️ Im looking to collaborate on Backend Stuff<br>📗 I'm currently learning Spring Security<br>🙋 Ask me about Backend Dev<br># Fun fact - I am ironman 🕶️
 
 
 ## 🌐 Socials:
