@@ -18,7 +18,7 @@
 ![](https://github-profile-trophy.vercel.app/?username=nivinjohn37&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
 ### ✍️ Dev Quote
-![](![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical&quote=asd asd)
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical&quote=Code%20is%20like%20humor.%20When%20you%20have%20to%20explain%20it,%20it’s%20bad!)
 
 ---
 [![](https://visitcount.itsvg.in/api?id=nivinjohn37&icon=0&color=0)](https://visitcount.itsvg.in)
